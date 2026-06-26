@@ -13,7 +13,7 @@ Building and studying tools at the boundary of people and AI.
 **Connect**
 
 [![Website](https://img.shields.io/badge/Website-yub--g.github.io-8167cc?style=flat-square&logo=githubpages&logoColor=white)](https://yub-g.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bofan-yu/)
 
 ---
 
